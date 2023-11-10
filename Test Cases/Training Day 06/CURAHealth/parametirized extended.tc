@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>parametirized extended</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22b23804-ba3b-4c36-8a08-53ef4b084061</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dcc81be1-eca2-4b29-9cda-c29c7a583bfd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>905ad473-4e46-41dc-a516-311f0f28da43</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>adac223a-edb6-44e2-9435-27e84ad17f24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e09628cb-af23-4651-9a67-5c4e2dedf2e6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>dcc81be1-eca2-4b29-9cda-c29c7a583bfd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM'</defaultValue>
+      <description></description>
+      <id>905ad473-4e46-41dc-a516-311f0f28da43</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'23/03/2023'</defaultValue>
+      <description></description>
+      <id>adac223a-edb6-44e2-9435-27e84ad17f24</id>
+      <masked>false</masked>
+      <name>bookingDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'komen A'</defaultValue>
+      <description></description>
+      <id>e09628cb-af23-4651-9a67-5c4e2dedf2e6</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

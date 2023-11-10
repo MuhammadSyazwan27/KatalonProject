@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>OrangeHRMAdd</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>dbb63db8-b758-4b15-8906-5964c2fef414</testSuiteGuid>
+   <testCaseLink>
+      <guid>9e3462b3-a135-43e0-bc51-56b4711ae3c5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/OrangeHRMAddJobTitle</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c0adb15e-11ec-4914-9b56-261c5969c4d3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/dataFile4</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>c0adb15e-11ec-4914-9b56-261c5969c4d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>job</value>
+         <variableId>8e47af68-7380-4db4-9f3b-b99a4e4d16eb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c0adb15e-11ec-4914-9b56-261c5969c4d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jobDescription</value>
+         <variableId>49504cac-fce3-4132-ace9-667024a56b50</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c0adb15e-11ec-4914-9b56-261c5969c4d3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>notes</value>
+         <variableId>92637320-9dab-4ee4-bb90-7acae9a8b78e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OrangeHRMAddJobTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9dc339f0-b28b-496c-91b6-726329c67ba6</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1d9f346d-5544-4552-8b39-8bba79114602</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/dataFile3</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1d9f346d-5544-4552-8b39-8bba79114602</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>job</value>
+      <variableId>8e47af68-7380-4db4-9f3b-b99a4e4d16eb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1d9f346d-5544-4552-8b39-8bba79114602</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>jobDescription</value>
+      <variableId>49504cac-fce3-4132-ace9-667024a56b50</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1d9f346d-5544-4552-8b39-8bba79114602</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>notes</value>
+      <variableId>92637320-9dab-4ee4-bb90-7acae9a8b78e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'job1'</defaultValue>
+      <description></description>
+      <id>8e47af68-7380-4db4-9f3b-b99a4e4d16eb</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+   <variable>
+      <defaultValue>'jobdesc'</defaultValue>
+      <description></description>
+      <id>49504cac-fce3-4132-ace9-667024a56b50</id>
+      <masked>false</masked>
+      <name>jobDescription</name>
+   </variable>
+   <variable>
+      <defaultValue>'nota'</defaultValue>
+      <description></description>
+      <id>92637320-9dab-4ee4-bb90-7acae9a8b78e</id>
+      <masked>false</masked>
+      <name>notes</name>
+   </variable>
+</TestCaseEntity>

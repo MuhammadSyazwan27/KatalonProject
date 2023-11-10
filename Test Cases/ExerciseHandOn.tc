@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ExerciseHandOn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea6fc102-3d5c-496b-88eb-4ac67d8c0a93</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f1dbbe9a-83c4-48d2-af80-269e8a170f8b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/testData2</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f1dbbe9a-83c4-48d2-af80-269e8a170f8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skill</value>
+      <variableId>9b86129c-634c-455a-81c5-4056fe2beab9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f1dbbe9a-83c4-48d2-af80-269e8a170f8b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>skillDescription</value>
+      <variableId>ac868856-6a75-44b6-8663-2ab2253a2103</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'skills1'</defaultValue>
+      <description></description>
+      <id>9b86129c-634c-455a-81c5-4056fe2beab9</id>
+      <masked>false</masked>
+      <name>skill</name>
+   </variable>
+   <variable>
+      <defaultValue>'skillDesc'</defaultValue>
+      <description></description>
+      <id>ac868856-6a75-44b6-8663-2ab2253a2103</id>
+      <masked>false</masked>
+      <name>skillDescription</name>
+   </variable>
+</TestCaseEntity>
